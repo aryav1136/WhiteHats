@@ -2,4 +2,4 @@ Hello, my name is Aryav Jaiswal and I'm a first year B.Tech student in Informati
 
 WhiteHats seems like something I would want to join. It can give exposure to my interests and also help build some knowledge in cybersecurity at the same time. I am pretty interested in this club since it would let me think like an ethical hacker. That part stands out. It could also help me stay safe from crimes like that. I think it would be useful in a few ways but I am not totally sure how everything fits yet.
 
-Recently, I heard a news about OpenAI hiring Graham Seamans(who was working for SpaceX) to lead their cybersecurity sales division to expand its market size in enterprise and cybersecurity offerings.
+Recently, I heard a news that the co-creator of the Empire Market(one of the largest dark web marketplaces) has been sentenced to 40 years in prison for facilitating $430 million in illegal transactions from 2018 to 2020. 
